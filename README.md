@@ -6,9 +6,8 @@
 
 - 🎓 I’m currently pursuing my undergraduate degree in Computer Science and Engineering
 - 🌱 I’m currently learning Flutter and dabbling in ML
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about UI/UX, React, Flask and Firebase
+- 📄 [Resume](https://github.com/ParthCheulkar/ParthCheulkar/blob/main/Parth_Cheulkar_Resume%20(6).pdf)
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: He/Him -->
 <!-- - ⚡ Fun fact: ... -->
@@ -31,5 +30,7 @@
   <p align="center">
     <a href="https://twitter.com/Parth_Vader__"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"   height=25></a> <a href="https://www.linkedin.com/in/parthcheulkar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:pscheulkar12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
+  <br>
+  <br>
   
 </details>
