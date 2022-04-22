@@ -21,10 +21,10 @@
   <p align="center">
   <br>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ParthCheulkar&count_private=true&show_icons=trueline_height=21&theme=dark">	
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ParthCheulkar&count_private=true&show_icons=trueline_height=21&theme=radical">	
   <br>
   <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthCheulkar&theme=dark">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthCheulkar&theme=radical">
   </p>
   <br>
   <h2 align="center"><u>Connect with me via....</u></h2>
