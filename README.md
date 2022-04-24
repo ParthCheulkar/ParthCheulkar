@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 👋  ![counter](https://komarev.com/ghpvc/?username=ParthCheulkar&style=for-the-badge)
 
 <!-- **ParthCheulkar/ParthCheulkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -11,7 +11,9 @@
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: He/Him -->
 <!-- - ⚡ Fun fact: ... -->
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthCheulkar&langs_count=4&theme=radical">
+</p>
 <details>
   
   <summary> Know More </summary>
